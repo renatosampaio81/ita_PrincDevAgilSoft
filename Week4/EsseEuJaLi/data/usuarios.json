@@ -1,0 +1,115 @@
+[ {
+  "nome" : "teste",
+  "senha" : "teste",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "renato",
+  "senha" : "coxinha123",
+  "pontos" : 26,
+  "trofeus" : [ "Leitor de Suspense" ],
+  "livrosLidosStatus" : {
+    "O Chamado de Cthulhu" : true,
+    "O Jogo do Anjo" : false,
+    "O Silêncio dos Inocentes" : true,
+    "Drácula" : true,
+    "O Nome da Rosa" : true,
+    "As Aventuras de Sherlock Holmes" : true,
+    "A Princesa Prometida" : true
+  }
+}, {
+  "nome" : "teste2",
+  "senha" : "teste2",
+  "pontos" : 35,
+  "trofeus" : [ "Leitor de Romance" ],
+  "livrosLidosStatus" : {
+    "Cem Anos de Solidão" : true,
+    "A Princesa Prometida" : true,
+    "Orgulho e Preconceito" : true,
+    "O Conde de Monte Cristo" : true,
+    "O Morro dos Ventos Uivantes" : true
+  }
+}, {
+  "nome" : "teste3",
+  "senha" : "teste3",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste4",
+  "senha" : "teste4",
+  "pontos" : 51,
+  "trofeus" : [ "Leitor de Aventura", "Leitor de Suspense" ],
+  "livrosLidosStatus" : {
+    "O Senhor dos Anéis: A Sociedade do Anel" : true,
+    "Aventuras de Alice no País das Maravilhas" : true,
+    "Vinte Mil Léguas Submarinas" : true,
+    "Dom Quixote" : true,
+    "Moby Dick" : true,
+    "O Chamado de Cthulhu" : true,
+    "O Jogo do Anjo" : true,
+    "O Silêncio dos Inocentes" : true,
+    "O Código Da Vinci" : true,
+    "O Nome da Rosa" : true
+  }
+}, {
+  "nome" : "teste5",
+  "senha" : "teste5",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste6",
+  "senha" : "teste6",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste7",
+  "senha" : "teste7",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste8",
+  "senha" : "teste8",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste9",
+  "senha" : "teste9",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste10",
+  "senha" : "teste10",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste11",
+  "senha" : "teste11",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "teste13",
+  "senha" : "teste13",
+  "pontos" : 62,
+  "trofeus" : [ "Leitor de Aventura", "Leitor de Romance" ],
+  "livrosLidosStatus" : {
+    "Cem Anos de Solidão" : true,
+    "Orgulho e Preconceito" : true,
+    "O Morro dos Ventos Uivantes" : true,
+    "Aventuras de Alice no País das Maravilhas" : true,
+    "A Ilha do Tesouro" : true,
+    "O Senhor dos Anéis: A Sociedade do Anel" : true,
+    "A Princesa Prometida" : true,
+    "Moby Dick" : true,
+    "Dom Quixote" : true,
+    "O Conde de Monte Cristo" : true
+  }
+} ]

@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Usuário1",
+    "pontos": 100
+  },
+  {
+    "nome": "Usuário2",
+    "pontos": 80
+  },
+  {
+    "nome": "Usuário3",
+    "pontos": 60
+  },
+  {
+    "nome": "Usuário4",
+    "pontos": 40
+  },
+  {
+    "nome": "Usuário5",
+    "pontos": 20
+  }
+]

@@ -1,0 +1,13 @@
+[ {
+  "nome" : "usuario1",
+  "senha" : "senha1",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+}, {
+  "nome" : "usuario2",
+  "senha" : "senha2",
+  "pontos" : 0,
+  "trofeus" : [ ],
+  "livrosLidosStatus" : { }
+} ]

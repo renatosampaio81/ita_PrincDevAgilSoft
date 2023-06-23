@@ -1,0 +1,135 @@
+[
+  {
+    "titulo": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "paginas": 863,
+    "sinopse": "A história de um fidalgo enlouquecido que se torna cavaleiro andante e embarca em várias aventuras com seu fiel escudeiro Sancho Pança.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "paginas": 432,
+    "sinopse": "Um romance clássico que explora os relacionamentos entre os membros da família Bennet, especialmente as filhas em busca de casamento.",
+    "estilo": "Romance"
+  },
+  {
+    "titulo": "Moby Dick",
+    "autor": "Herman Melville",
+    "paginas": 585,
+    "sinopse": "A história do capitão Ahab e sua obsessão por caçar a lendária baleia branca Moby Dick, uma narrativa épica sobre a natureza humana e a busca pelo desconhecido.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "Vinte Mil Léguas Submarinas",
+    "autor": "Jules Verne",
+    "paginas": 384,
+    "sinopse": "As aventuras do Capitão Nemo e seus encontros com criaturas maravilhosas durante suas viagens submarinas a bordo do submarino Nautilus.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "paginas": 1312,
+    "sinopse": "A história de vingança de Edmond Dantès, que, após ser injustamente preso, planeja sua fuga e retorna à sociedade para punir aqueles que o traíram.",
+    "estilo": "Romance"
+  },
+  {
+    "titulo": "A Ilha do Tesouro",
+    "autor": "Robert Louis Stevenson",
+    "paginas": 240,
+    "sinopse": "Uma emocionante aventura pirata que segue o jovem Jim Hawkins em busca do tesouro enterrado do infame Capitão Flint.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "paginas": 551,
+    "sinopse": "A história de Raskólnikov, um estudante que comete um assassinato por razões filosóficas e depois enfrenta as consequências de seu ato.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "paginas": 416,
+    "sinopse": "Uma história intensa de amor e vingança entre os personagens Heathcliff e Catherine na sombria paisagem das charnecas inglesas.",
+    "estilo": "Romance"
+  },
+  {
+    "titulo": "As Aventuras de Sherlock Holmes",
+    "autor": "Arthur Conan Doyle",
+    "paginas": 352,
+    "sinopse": "Uma coleção de contos protagonizados pelo detetive Sherlock Holmes e seu fiel companheiro Dr. Watson, desvendando mistérios intrigantes.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "A Princesa Prometida",
+    "autor": "William Goldman",
+    "paginas": 512,
+    "sinopse": "Uma história de amor e aventura que envolve a bela Buttercup, seu amado Westley e uma série de personagens cativantes em um mundo de fantasia.",
+    "estilo": "Romance"
+  },
+  {
+    "titulo": "O Nome da Rosa",
+    "autor": "Umberto Eco",
+    "paginas": 552,
+    "sinopse": "Um monge franciscano e seu aprendiz investigam uma série de assassinatos em uma abadia medieval, enfrentando segredos obscuros e disputas teológicas.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "Aventuras de Alice no País das Maravilhas",
+    "autor": "Lewis Carroll",
+    "paginas": 200,
+    "sinopse": "Uma história surreal que segue a jovem Alice enquanto ela cai em uma toca de coelho e explora um mundo fantástico cheio de personagens peculiares.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "paginas": 590,
+    "sinopse": "Uma trama repleta de mistérios e símbolos ocultos, na qual o simbologista Robert Langdon segue pistas que podem revelar segredos milenares.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "paginas": 416,
+    "sinopse": "A história do vampiro mais famoso da literatura, o Conde Drácula, e sua luta contra um grupo de pessoas determinadas a destruí-lo.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "paginas": 576,
+    "sinopse": "O primeiro volume da épica trilogia que acompanha a jornada do hobbit Frodo Baggins para destruir o Um Anel e salvar a Terra-média da escuridão.",
+    "estilo": "Aventura"
+  },
+  {
+    "titulo": "O Silêncio dos Inocentes",
+    "autor": "Thomas Harris",
+    "paginas": 352,
+    "sinopse": "A agente do FBI Clarice Starling é enviada para entrevistar o brilhante psiquiatra canibal Dr. Hannibal Lecter, na esperança de obter informações sobre um assassino em série.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "paginas": 448,
+    "sinopse": "A saga da família Buendía, cujas gerações experimentam amor, guerra, solidão e magia na cidade fictícia de Macondo.",
+    "estilo": "Romance"
+  },
+  {
+    "titulo": "O Jogo do Anjo",
+    "autor": "Carlos Ruiz Zafón",
+    "paginas": 576,
+    "sinopse": "Uma trama misteriosa ambientada em Barcelona, seguindo um escritor que é atraído para um jogo perigoso relacionado a um livro obscuro e uma figura sinistra.",
+    "estilo": "Suspense"
+  },
+  {
+    "titulo": "O Chamado de Cthulhu",
+    "autor": "H.P. Lovecraft",
+    "paginas": 96,
+    "sinopse": "Uma história de horror cósmico que envolve antigos deuses alienígenas, cultos sinistros e a insanidade que acompanha o conhecimento proibido.",
+    "estilo": "Suspense"
+  }
+]
